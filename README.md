@@ -31,3 +31,4 @@ This project contains an XML layout file for an Android application designed to 
 ## Screenshot
 Below is an image of the rendered layout representing this design.
 
+![image alt](https://github.com/AilaArshad/Instagram/blob/7422282e0041847cab525b36e8b5e802016a8c18/Preview.png)
